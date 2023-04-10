@@ -14,4 +14,6 @@
       Vine: 4,343
       Non-Vine: 1.6 million 
       
+    What % of Vine reviews were five-stars? 
+      42.5% of all Vine reviews   
    
